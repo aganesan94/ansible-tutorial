@@ -1,3 +1,0 @@
-[pictolearn_servers]
-ansible-target-1 ansible_ssh_user=root ansible_host=64.227.156.64 ansible_ssh_private_key_file=/home/cloudtel/clients/keys/pictolearn/pictolearn
-ansible-target-2 ansible_ssh_user=root ansible_host=143.110.248.87 ansible_ssh_private_key_file=/home/cloudtel/clients/keys/pictolearn/pictolearn
